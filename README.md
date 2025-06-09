@@ -1,7 +1,7 @@
 # First-Project
 # Vacation Days Calculator (Tatilde Geçen Gerçek Gün Hesaplayıcı)
 
-## 🇬🇧 English Description
+## English Description
 
 This C++ program calculates the **actual number of vacation days** (excluding weekends) between two dates entered by the user.
 
@@ -25,7 +25,7 @@ Free to use for educational purposes.
 
 ---
 
-## 🇹🇷 Türkçe Açıklama
+## Türkçe Açıklama
 
 Bu C++ programı, kullanıcının girdiği iki tarih arasında **hafta sonları (Cuma ve Cumartesi)** hariç olmak üzere **gerçek tatil günlerini** hesaplar.
 
